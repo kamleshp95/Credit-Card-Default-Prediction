@@ -17,7 +17,7 @@ click==7.1.2
 colorama==0.4.5
 comm==0.1.2
 confection==0.0.3
-contourpy==1.0.7
+contourpy==1.1.0
 cors==1.0.1
 cors-python==0.0.1
 cycler==0.11.0
