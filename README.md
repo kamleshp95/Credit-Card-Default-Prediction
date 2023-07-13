@@ -54,3 +54,5 @@ The main objective of this project is to predict whether the credit card holder 
 ## For Running the project in local machine
 
 Run app.py
+## Deployed Link
+https://credit-card-default-prediction-h225.onrender.com/
